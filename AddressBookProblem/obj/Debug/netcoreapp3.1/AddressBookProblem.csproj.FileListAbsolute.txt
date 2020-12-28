@@ -1,0 +1,138 @@
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.exe
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.deps.json
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.runtimeconfig.json
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.runtimeconfig.dev.json
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.pdb
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.AssemblyInfoInputs.cache
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.AssemblyInfo.cs
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.pdb
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.genruntimeconfig.cache
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.csprojAssemblyReference.cache
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.csproj.CopyComplete
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.csproj.CoreCompileInputs.cache
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\saiku\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.exe
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.deps.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.runtimeconfig.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.runtimeconfig.dev.json
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\AddressBookProblem.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.csprojAssemblyReference.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.AssemblyInfoInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.AssemblyInfo.cs
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.csproj.CoreCompileInputs.cache
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.csproj.CopyComplete
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.dll
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.pdb
+C:\Users\NAGENDRA AND JANAKI\source\repos\AddressBookProblem\AddressBookProblem\obj\Debug\netcoreapp3.1\AddressBookProblem.genruntimeconfig.cache
